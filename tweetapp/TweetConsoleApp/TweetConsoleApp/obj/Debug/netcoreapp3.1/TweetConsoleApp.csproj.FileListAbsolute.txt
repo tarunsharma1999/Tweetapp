@@ -1,0 +1,15 @@
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\bin\Debug\netcoreapp3.1\TweetConsoleApp.exe
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\bin\Debug\netcoreapp3.1\TweetConsoleApp.deps.json
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\bin\Debug\netcoreapp3.1\TweetConsoleApp.runtimeconfig.json
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\bin\Debug\netcoreapp3.1\TweetConsoleApp.runtimeconfig.dev.json
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\bin\Debug\netcoreapp3.1\TweetConsoleApp.dll
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\bin\Debug\netcoreapp3.1\TweetConsoleApp.pdb
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\obj\Debug\netcoreapp3.1\TweetConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\obj\Debug\netcoreapp3.1\TweetConsoleApp.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\obj\Debug\netcoreapp3.1\TweetConsoleApp.AssemblyInfo.cs
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\obj\Debug\netcoreapp3.1\TweetConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\obj\Debug\netcoreapp3.1\TweetConsoleApp.dll
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\obj\Debug\netcoreapp3.1\TweetConsoleApp.pdb
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\obj\Debug\netcoreapp3.1\TweetConsoleApp.genruntimeconfig.cache
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cogdotnet1005\Desktop\tweetapp\TweetConsoleApp\TweetConsoleApp\obj\Debug\netcoreapp3.1\TweetConsoleApp.csproj.AssemblyReference.cache
